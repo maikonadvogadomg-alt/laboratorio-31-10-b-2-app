@@ -1,0 +1,19 @@
+LABORATÓRIO — 31/10
+====================
+Abas: 📂 Projetos · 🗺️ Plano macro · ⚖️ Comparar A × B · 🤖 IA · 📒 Memória · 💻 Terminal · 🧰 Ferramentas
+
+🤖 IA ............ é o seu Meu Chat aqui dentro (chaves, 🦙 Ollama, voz, internet, fotos, memória).
+                   Os botões 📎 colocam na caixa do chat o PLANO do projeto, a MEMÓRIA, a COMPARAÇÃO ou um ARQUIVO.
+📒 Memória ....... o caderno de cada projeto (objetivo, o que funciona, o que falta, decisões) + um caderno geral.
+                   Salva sozinho. 📎 manda para a IA.
+💻 Terminal ...... o Termux do celular (o mesmo jeito do Mini SK): ⬆ manda o projeto para ~/laboratorio/NOME,
+                   roda npm install / npm run build, ⬇ traz de volta o que foi criado, 👁 vê a porta.
+🧰 Ferramentas ... Montador Universal, Picotador, Faxina, Arrumador, Numerador, Preparador, Colador, Meu Chat
+                   e os seus códigos antigos — todos abrem aqui dentro.
+
+COMO ABRIR
+- O melhor: publique (GitHub Pages / Netlify) ou abra pelo Mini SK (▶️ Preview / 🚀 Publicar).
+- As ferramentas e o chat ficam em pastas (ferramentas/, kits/): abrir só o index.html solto pelo
+  gerenciador de arquivos pode não carregar elas.
+
+OS SEUS DADOS ficam no navegador (projetos, memória, conversas do chat). Não limpe os "dados do site".
